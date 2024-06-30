@@ -1,6 +1,6 @@
 OMNIFOOD-Website
 
-Description
+# Description
 
 The Omnifood website is a personal project to demonstrate my knowledge and skills using primarily HTML & CSS.
 There is a small amount of Javascript controlling some scrolling functions otherwise most other interactive features are written in CSS.
